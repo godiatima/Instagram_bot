@@ -1,7 +1,7 @@
 #!/usr/bin/python3 
 from instapy import InstaPy 
 
-session = InstaPy(username="godfrey_atima", password="new@daytoday")
+session = InstaPy(username="your_username", password="your_password")
 
 #Logging into instagram
 session.login()
