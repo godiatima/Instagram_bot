@@ -1,0 +1,54 @@
+1587844055842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewNRVtb"
+1587844058351	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587844058458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587844058459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587844058459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587844058459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587844065216	Marionette	INFO	Listening on port 42473
+1587844065883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7518969656198246&output=html&h=250&slotname=7870440415&adk=1919724467&adf=2267985012&w=300&lmt=1587844078&psa=0&guci=2.2.0.0.2.2.0.0&format=300x250&url=https%3A%2F%2Fisitdownorjust.me%2Finstagram-com%2F&flash=0&wgl=1&dt=1587844078116&bpp=17&bdt=2770&fdt=475&idt=476&shv=r20200422&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=5470080197195&frm=20&pv=2&ga_vid=832916163.1587844078&ga_sid=1587844079&ga_hid=1271150187&ga_fc=1&icsg=140805351342122&dssz=32&mdo=0&mso=0&u_tz=180&u_his=2&u_java=0&u_h=1024&u_w=1280&u_ah=997&u_aw=1213&u_cd=24&u_nplug=0&u_nmime=0&adx=729&ady=514&biw=1072&bih=817&scr_x=0&scr_y=0&eid=21065472%2C21065474%2C21065926&oid=3&pvsid=2386826856846904&pem=938&rx=0&eae=0&fc=896&brdim=196%2C27%2C196%2C27%2C1213%2C27%2C1084%2C891%2C1084%2C817&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=0XqGAkQ5X4&p=https%3A//isitdownorjust.me&dtd=516, line 4: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+Exiting due to channel error.
+Exiting due to channel error.
+1587844347468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6RW8WX"
+1587844348525	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587844348563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587844348564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587844348564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587844348564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587844351726	Marionette	INFO	Listening on port 38039
+1587844351790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7518969656198246&output=html&h=250&slotname=7870440415&adk=1919724467&adf=2267985012&w=300&lmt=1587844360&psa=0&guci=2.2.0.0.2.2.0.0&format=300x250&url=https%3A%2F%2Fisitdownorjust.me%2Finstagram-com%2F&flash=0&wgl=1&adsid=NT&dt=1587844360038&bpp=18&bdt=2346&fdt=766&idt=766&shv=r20200422&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=4844084329859&frm=20&pv=2&ga_vid=1039059483.1587844360&ga_sid=1587844361&ga_hid=955412214&ga_fc=1&icsg=140805351342122&dssz=32&mdo=0&mso=0&u_tz=180&u_his=2&u_java=0&u_h=1024&u_w=1280&u_ah=997&u_aw=1213&u_cd=24&u_nplug=0&u_nmime=0&adx=729&ady=514&biw=1072&bih=817&scr_x=0&scr_y=0&eid=21065472%2C21065474%2C423550201&oid=3&pg_h=1822&pvsid=2594448510040489&pem=568&rx=0&eae=0&fc=896&brdim=196%2C27%2C196%2C27%2C1213%2C27%2C1084%2C891%2C1084%2C817&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=dz8p5kVozH&p=https%3A//isitdownorjust.me&dtd=803, line 1: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200422/r20110914/client/qs_click_protection.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587844443122	Marionette	INFO	Stopped listening on port 38039
+1587844726331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2PIRdp"
+1587844727188	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587844727227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587844727227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587844727228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587844727228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587844731153	Marionette	INFO	Listening on port 40725
+1587844731248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587844760965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJHnQcw"
+1587844761676	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587844761711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587844761711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587844761711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587844761712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587844767952	Marionette	INFO	Listening on port 42279
+1587844767985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1587844846630	Marionette	INFO	Stopped listening on port 42279
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1587844945612	Marionette	INFO	Stopped listening on port 40725
+1587844984764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIhicKU"
+1587844986409	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587844986472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587844986472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587844986472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587844986472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587844992906	Marionette	INFO	Listening on port 41613
+1587844992986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1587845021597	Marionette	INFO	Stopped listening on port 41613
